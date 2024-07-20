@@ -1,0 +1,28 @@
+var class_spices_1_1_imgui_slate =
+[
+    [ "ImguiSlate", "class_spices_1_1_imgui_slate.html#a9834eea71fc5d83ac27fe2fa584f9bb4", null ],
+    [ "~ImguiSlate", "class_spices_1_1_imgui_slate.html#a4c0407f4f2bca5eb26c233c3c3b6f4e1", null ],
+    [ "Begin", "class_spices_1_1_imgui_slate.html#a137318f1335e08300a659ddbdaf1d899", null ],
+    [ "Begin", "class_spices_1_1_imgui_slate.html#a0f369950e611279ffd184a738b1e7834", null ],
+    [ "End", "class_spices_1_1_imgui_slate.html#a6c007b3589de9cd73a5aab730fb7931e", null ],
+    [ "GetPanelPos", "class_spices_1_1_imgui_slate.html#a71d20275d544a6e7e1ac2dae3cf92eb6", null ],
+    [ "GetPanelSize", "class_spices_1_1_imgui_slate.html#a0a0f1cb38be4693624622eea478dc2cf", null ],
+    [ "IsFocused", "class_spices_1_1_imgui_slate.html#a8c0606ac4da071afc0f0639a292a1c86", null ],
+    [ "IsHovered", "class_spices_1_1_imgui_slate.html#a10a8a92b7355319d33a1d5d4e1846d34", null ],
+    [ "IsResizedThisFrame", "class_spices_1_1_imgui_slate.html#a006293cf82523570f6d70c823d89fedb", null ],
+    [ "LoadSlateIcon", "class_spices_1_1_imgui_slate.html#aa6cef25b51d7d63a93880c8c6432e8cc", null ],
+    [ "OnEvent", "class_spices_1_1_imgui_slate.html#a961f21af48aa231c68e5935b7a730215", null ],
+    [ "OnRender", "class_spices_1_1_imgui_slate.html#a98b56c4a20b8880cf8787a770402936f", null ],
+    [ "OnUpdate", "class_spices_1_1_imgui_slate.html#a169ebcca9f5b693334f93bd1974e2bd0", null ],
+    [ "QueryIsResizedThisFrame", "class_spices_1_1_imgui_slate.html#a8c8a454cd5199cdb906db6c16944c374", null ],
+    [ "SetWindowState", "class_spices_1_1_imgui_slate.html#a10e80aef5084c8e68908547578d39e54", null ],
+    [ "m_FrameInfo", "class_spices_1_1_imgui_slate.html#a5edc12cd66f2c28d98ca9a3155f7674b", null ],
+    [ "m_IsFocused", "class_spices_1_1_imgui_slate.html#af49f9fe3003d7891803e82d67e90f538", null ],
+    [ "m_IsHovered", "class_spices_1_1_imgui_slate.html#a0a08c23990b39a2b6cc5dcc30a1b6f32", null ],
+    [ "m_IsOpen", "class_spices_1_1_imgui_slate.html#a9f3a756dcdae4908d88a337fb5410d8e", null ],
+    [ "m_IsResized", "class_spices_1_1_imgui_slate.html#abc81f027aadc19ec7632a589009e184e", null ],
+    [ "m_IsSlateOn", "class_spices_1_1_imgui_slate.html#a3c7faa0c76941a3966bded4d4c281af4", null ],
+    [ "m_PanelName", "class_spices_1_1_imgui_slate.html#accb0a18de36d28a343c15e12ab6ba84b", null ],
+    [ "m_PanelPos", "class_spices_1_1_imgui_slate.html#a3836f263fbb209f95e06685ba898b40c", null ],
+    [ "m_PanelSize", "class_spices_1_1_imgui_slate.html#a8b7c58d7b483af2c8342c7285b68e4be", null ]
+];

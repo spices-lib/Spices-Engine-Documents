@@ -1,0 +1,25 @@
+var struct_spices_1_1_vulkan_state =
+[
+    [ "VulkanState", "struct_spices_1_1_vulkan_state.html#a8766f4d1b6e25a29ffad310acd7712c8", null ],
+    [ "VulkanState", "struct_spices_1_1_vulkan_state.html#a0f0c4ab610a72ef27845267053e8eb1b", null ],
+    [ "operator=", "struct_spices_1_1_vulkan_state.html#afaa1972dab80266d20a323f0506c5ed6", null ],
+    [ "m_CommandBuffer", "struct_spices_1_1_vulkan_state.html#a607ddb411e7f6dec0141aadaf694b41e", null ],
+    [ "m_CommandPool", "struct_spices_1_1_vulkan_state.html#a63747bc71f3d82647d1d7dbb9929c2bf", null ],
+    [ "m_ComputeQueue", "struct_spices_1_1_vulkan_state.html#a715e47dbd1c1d07cba723f10a75ea26c", null ],
+    [ "m_Device", "struct_spices_1_1_vulkan_state.html#ae1c2b0bfa008a802bfc28d3068cc5c94", null ],
+    [ "m_Fence", "struct_spices_1_1_vulkan_state.html#ae5528d7d2341b83b8d264a2c3aabedb0", null ],
+    [ "m_GraphicQueue", "struct_spices_1_1_vulkan_state.html#af1b603b3975c80a4ce3f7dda85a2641a", null ],
+    [ "m_GraphicQueueFamily", "struct_spices_1_1_vulkan_state.html#a835b341974c93811e6436d2fb8d85f93", null ],
+    [ "m_ImageSemaphore", "struct_spices_1_1_vulkan_state.html#ac67cf9a61849eaf47e2a44d934838336", null ],
+    [ "m_Instance", "struct_spices_1_1_vulkan_state.html#a7f7d5f50f81d7301c51eb785e615bfef", null ],
+    [ "m_PhysicalDevice", "struct_spices_1_1_vulkan_state.html#acc7f18129c6983ceed288c5a96c35504", null ],
+    [ "m_PresentQueue", "struct_spices_1_1_vulkan_state.html#a5c8103fa596bc1f201c148f4002dbaa1", null ],
+    [ "m_QueueSemaphore", "struct_spices_1_1_vulkan_state.html#adce34bf91cfca4e9e8aae1f909814b93", null ],
+    [ "m_Surface", "struct_spices_1_1_vulkan_state.html#ac87e5ea85283a5bbf1721007edcd41df", null ],
+    [ "m_SwapChain", "struct_spices_1_1_vulkan_state.html#a0fbf0df83293dfa3340bc7e7b56f94e2", null ],
+    [ "m_SwapChainImages", "struct_spices_1_1_vulkan_state.html#a39ed937e3a9e284fb5f7df86e7e84c7f", null ],
+    [ "m_SwapChainImageSamplers", "struct_spices_1_1_vulkan_state.html#a5e1042167137b6430abdf7f05a2bfdb4", null ],
+    [ "m_SwapChainImageViews", "struct_spices_1_1_vulkan_state.html#a4094ef6c57f1b4d2fcf1b3a19e0bc835", null ],
+    [ "m_TransformQueue", "struct_spices_1_1_vulkan_state.html#a0fcccbeb32a3585382decc76248533a3", null ],
+    [ "m_Windows", "struct_spices_1_1_vulkan_state.html#a77ce3e88addd237783bece217857106c", null ]
+];
